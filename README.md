@@ -1,6 +1,5 @@
-# Book-Starkware
-Libro de L2 en Español con Información en general del ecosistema de Starkware
-
+# Book: Escalabilidad - Fundamentales
+Libro de L2 en Español con Información general sobre Escalabilidad y sus Fundamentales dentro del ecosistema Ethereum
 ## Parte 1: Instalación de mdBook
 
 mdBook es una herramienta que te permite crear libros y documentación en formato HTML a partir de archivos Markdown. 
